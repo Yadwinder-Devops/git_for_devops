@@ -12,6 +12,8 @@
 - **git branch**: Lists, creates, or deletes branches.
 - **git checkout [branch-name]**: Switches to the specified branch.
 - **git checkout -b [branch-name]**: Creates and switches to a new branch.
+- - **git restore [filename]**: Restores a file to its last committed state.
+
   
 ## Basic Linux Commands
 - **clear**: Clears the terminal screen.
@@ -22,5 +24,4 @@
 - **rm [filename]**: Removes the specified file.
 - **pwd**: Prints the current working directory.
 - **vim [filename]**: Opens the file in the Vim text editor.
-- **git restore [filename]**: Restores a file to its last committed state.
 
